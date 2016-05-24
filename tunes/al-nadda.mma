@@ -1,0 +1,26 @@
+// 'Al nadda 'l nadda
+
+Tempo 95
+
+Chord Define Straight1 1 4 90 ; 2 4 90 ; 3 4 90 ; 4 4 90
+
+Groove Saidi
+
+z * 2
+
+Repeat
+D / Cdim7 D { 8c; 8d; 8d; 8d; 8e&; 8f#; 4d; }
+D / Cdim7 D { 8c; 8d; 8d; 8d; 8e&; 8f#; 4d; }
+D / Cdim7 D { 8c; 8d; 8d; 8d; 8e&; 8f#; 4d; }
+Chord Riff Straight1
+F#dim7 EbM7b5 D7b9 D { 8a; 16g; 16f#; 8g; 16f#; 16e&; 8d; 8e&; 4d; }
+RepeatEnd
+
+Repeat
+D / EbM7 D { 8d; 8a; 8a; 8a; 8b&; 16a; 16g; 8a; }
+D / EbM7 D { 8d; 8a; 8a; 8a; 8b&; 16a; 16g; 8a; }
+RepeatEnd
+
+Gm { 8g; 8b&; 8g; 8b&; 8g; 8g; 4b&; }
+Chord Riff Straight1
+F#dim7 Ebdim7 D7b9 D { 8a; 8g; 8f#; 8e&; 8d; 8e&; 4d; }
