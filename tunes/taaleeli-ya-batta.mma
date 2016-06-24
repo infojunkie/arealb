@@ -5,121 +5,122 @@ Tempo 120
 Chord Define Straight1 1 2 90
 Chord Define Straight2 1 4 90 ; 2 4 90
 
+Solo Voice TenorSax
 Groove Ayyub
 
 z * 2
 
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
+Fm7 { 8r; 8f; 8f; 8f; }
+Fm7 { 8g; 8f; 8a&; 8g; }
+Fm7 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 4f; 4r; }
+Fm7 { 4f; 4r; }
 Chord Riff Straight2
-C7#5#9
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
+C7#5#9 { 4f; 4f; }
+Fm7 { 8c; 8f; 8f; 8f; }
+Fm7 { 8g; 8f; 8a&; 8g; }
+Fm7 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 4f; 4r; }
+Fm7 { 4f; 4r; }
 Chord Riff Straight2
-Fm7 z
+Fm7 z { 4f; 8a&; 8b&; }
 
 Chord Riff Straight1
-Bbm7
+Bbm7 { 8c+; 8b&; 8a&; 8g; }
 Chord Riff Straight1
-C7
+C7 { 4b&; 4a&; }
 Chord Riff Straight1
-Gm7b5
+Gm7b5 { 8g; 8a&; 8b&; 8g; }
 Chord Riff Straight1
-Fm7
+Fm7 { 8a&; 8r; 8a&; 8b&; }
 Chord Riff Straight1
-Bbm7
+Bbm7 { 8c+; 8b&; 8a&; 8g; }
 Chord Riff Straight1
-C7
+C7 { 4b&; 4a&; }
 Chord Riff Straight1
-Gm7b5
+Gm7b5 { 8g; 8a&; 8b&; 8g; }
 Chord Riff Straight1
-Fm7 z
+Fm7 z { 8a&; 8r; 4a&; }
 
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
+Fm7 { 4f; 4f; }
+Fm7 { 2a&; }
+Fm7 { 8a&; 8b&; 4c+; }
+Fm7 { 4b&; 4a&; }
+Fm7 { 8b&; 8a&; 4g; }
+Fm7 { 4a&; 4g; }
+Fm7 { 4f; 4f; }
 Chord Riff Straight2
-C7#5#9
+C7#5#9 { 4c; 4a&; }
 Chord Riff Straight2
-C7#5#9
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
+C7#5#9 { 4f; 4a&; }
+Fm7 { 4f; 4a&; }
+Fm7 { 4f; 4f; }
+Fm7 { 2a&; }
+Fm7 { 8a&; 8b&; 4c+; }
+Fm7 { 4b&; 4a&; }
+Fm7 { 8b&; 8a&; 4g; }
+Fm7 { 4a&; 4g; }
+Fm7 { 4f; 4f; }
 Chord Riff Straight2
-C7#5#9
+C7#5#9 { 4c; 4a&; }
 Chord Riff Straight2
-C7#5#9
+C7#5#9 { 4f; 4a&; }
 Chord Riff Straight2
-Fm7 z
+Fm7 z { 4f; 8r; 8a&; }
 
-Gm7b5
-Fm7
-Gm7b5
-Fm7
-Gm7b5
-Fm7
-Gm7b5
+Gm7b5 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 8a&; 8a&; 8r; 8a&; }
+Gm7b5 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 8a&; 8a&; 8r; 8a&; }
+Gm7b5 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 8a&; 8a&; 8r; 8a&; }
+Gm7b5 { 8b&; 8a&; 8g; 8f; }
 Chord Riff Straight2
-Fm7 z
+Fm7 z { 8a&; 8a&; 4e+; }
 
 Chord Riff Straight2
-Bbm7
+Bbm7 { 4d&+; 4c+; }
 Chord Riff Straight2
-Bbm7
+Bbm7 { 2d&+; }
 Chord Riff Straight2
-Fm7
+Fm7 { 8c+; 8b&; 4c+; }
 Chord Riff Straight2
-Fm7
+Fm7 { 4a&; 4e+; }
 Chord Riff Straight2
-Bbm7
+Bbm7 { 4d&+; 4c+; }
 Chord Riff Straight2
-Bbm7
+Bbm7 { 2d&+; }
 Chord Riff Straight2
-Fm7
+Fm7 { 8c+; 8b&; 4c+; }
 Chord Riff Straight2
-Fm7
+Fm7 { 4a&; 4b&; }
 Chord Riff Straight2
-Gm7b5
+Gm7b5 { 4b&; 4b&; }
 Chord Riff Straight2
-Gm7b5
+Gm7b5 { 2b&; }
 Chord Riff Straight2
-C7#5#9
+C7#5#9 { 8b&; 8b&; 4c+; }
 
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
+Fm7 { 8c+; 8f; 8f; 8f; }
+Fm7 { 8g; 8f; 8a&; 8g; }
+Fm7 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 4f; 4r; }
+Fm7 { 4f; 4r; }
 Chord Riff Straight2
-C7#5#9
-Fm7
-Fm7
-Fm7
-Fm7
-Fm7
+C7#5#9 { 4f; 4f; }
+Fm7 { 8c; 8f; 8f; 8f; }
+Fm7 { 8g; 8f; 8a&; 8g; }
+Fm7 { 8b&; 8a&; 8g; 8f; }
+Fm7 { 4f; 4r; }
+Fm7 { 4f; 4r; }
 Chord Riff Straight2
-Fm7 z
+Fm7 z { 4f; 8a&; 8b&; }
 
 Chord Riff Straight1
-Bbm7
+Bbm7 { 8c+; 8b&; 8a&; 8g; }
 Chord Riff Straight1
-C7
+C7 { 4b&; 4a&; }
 Chord Riff Straight1
-Gm7b5
+Gm7b5 { 8g; 8a&; 8b&; 8g; }
 Chord Riff Straight1
-Fm7
+Fm7 z! { 8a&; }
