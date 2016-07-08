@@ -1,7 +1,7 @@
 # arealb
 Arabic Real Book
 
-A collection of Arabic tunes formatted à la Real Book.
+A collection of Arabic tunes formatted à la Real Book. The [output is published on MuseScore](https://musescore.com/infojunkie/sets/arabicrealbook).
 
 Each tune consists of several files:
 - tune.mscz - the tune sheet ([MuseScore](https://musescore.org/) file)
