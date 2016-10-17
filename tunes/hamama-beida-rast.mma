@@ -1,0 +1,27 @@
+
+Plugin qriff
+
+time 4
+
+// Take the following line and convert to 3 riff tracks
+
+Begin Solo
+   Voice Clarinet
+End
+
+solo @qriff b&;b&;b&;8a%;16b&;a%;
+solo @qriff 8g;a%;4b&;2r;
+solo @qriff 8a%;b&;c+;b&;b&;a%;a%;g;
+solo @qriff 8g;f;4f;2r;
+
+solo @qriff b&;b&;b&;8a%;16b&;a%;
+solo @qriff 8g;a%;4b&;2r;
+solo @qriff 8a%;b&;c+;b&;b&;a%;a%;g;
+solo @qriff 8g;f;4f;2r;
+
+solo @qriff 4g;f;e&;8d%;16e&;d%;
+solo @qriff 8c;e&;4d%;2r;
+solo @qriff 4d%;c;e&;8d%;c;
+solo @qriff 8c;b&-;b&-;d%;4f;b&-;
+
+z! * 12
