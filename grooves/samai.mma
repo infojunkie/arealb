@@ -1,0 +1,30 @@
+// Sama'i rhythm
+
+SeqClear
+SeqSize 1
+Time 10
+Timesig 10/8
+
+// D = dum, T = tak, S = sak
+Begin Drum Define
+  D 1 8 90 ; 6 8 90 ; 7 4 90
+  T 4 8 90 ; 8 8 90
+  S 2 16 50 ; 2.5 16 50 ; 3 16 50 ; 3.5 16 50 ; 5 16 50 ; 5.5 16 50 ; 9 16 50 ; 9.5 16 50 ; 10 16 50 ; 10.5 16 50  
+End
+
+Begin Drum-Dum
+  Tone LowBongo
+  Sequence D
+End
+
+Begin Drum-Tak
+  Tone HighBongo
+  Sequence T
+End
+
+Begin Drum-Sak
+  Tone Cabasa
+  Sequence S
+End
+
+DefGroove Samai
