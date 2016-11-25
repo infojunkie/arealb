@@ -2,14 +2,14 @@
 
 SeqClear
 SeqSize 1
-Time 10
+Time 5
 Timesig 10/8
 
 // D = dum, T = tak, S = sak
 Begin Drum Define
-  D 1 8 90 ; 6 8 90 ; 7 4 90
-  T 4 8 90 ; 8 8 90
-  S 2 16 50 ; 2.5 16 50 ; 3 16 50 ; 3.5 16 50 ; 5 16 50 ; 5.5 16 50 ; 9 16 50 ; 9.5 16 50 ; 10 16 50 ; 10.5 16 50
+  D 1 8 90 ; 3+8 8 90 ; 4 4 90
+  T 2+8 8 90 ; 4+8 8 90
+  S 1+8 16 50 ; 1+8+16 16 50 ; 2 16 50 ; 2+16 16 50 ; 3 16 50 ; 3+16 16 50 ; 5 16 50 ; 5+16 16 50 ; 5+8 16 50 ; 5+8+16 16 50
 End
 
 Begin Drum-Dum
@@ -34,7 +34,7 @@ Begin Bass
     Articulate 90
     Rtime 5
     Rvolume 5
-    Sequence { 1 8 1 90; 3 8 5- 90; 4 8 1 90; 6 8 5- 90; 7 8 5- 90; 8 8 1 90; 10 8 5- 90 }
+    Sequence { 1 8 1 90; 2 8 5- 90; 2+8 8 1 90; 3+8 8 5- 90; 4 8 5- 90; 4+8 8 1 90; 5+8 8 5- 90 }
 End
 
 Begin Chord
@@ -43,7 +43,7 @@ Begin Chord
     Voicing Mode=Key
     Octave 5
     Volume p
-    Sequence { 1 4+8 90; 4 4+8 90; 7 8 90; 8 4+8 90 }
+    Sequence { 1 4+8 90; 2+8 4+8 90; 4 8 90; 4+8 4+8 90 }
     Rskip 20
 End
 

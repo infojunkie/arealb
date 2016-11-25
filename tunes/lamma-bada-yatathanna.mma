@@ -1,37 +1,37 @@
 // Lamma bada yatathanna
 
-Tempo 120
+Tempo 60
 
 Solo Voice TenorSax
 Groove Samai
 Chord Sequence -
-Gm7 { 2r; 2r; 2r; 2r; 4r; 4d; }
+Gm7 { 4r; 4r; 4r; 4r; 8r; 8d; }
 
 Groove Samai
 
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4d; }
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 8a; 8b&; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
-F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2g-; 4d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 16a; 16b&; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c+; 8d+; 8+16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8a; }
+F#dim7 Cm7@2.5 Gm7@4.5 { 4f#; 8g; 8+16e&; 16d; 16e&; 16d; 16e&; 16f#; 4d; 16e&; 16d; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c; 16d; 16c; 8+16b&-; 16a-; 16a-; 16g-; 16g-; 16f#-; 4g-; 8d; }
 
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4d; }
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 8a; 8b&; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
-F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2g-; 4d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 16a; 16b&; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c+; 8d+; 8+16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8a; }
+F#dim7 Cm7@2.5 Gm7@4.5 { 4f#; 8g; 8+16e&; 16d; 16e&; 16d; 16e&; 16f#; 4d; 16e&; 16d; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c; 16d; 16c; 8+16b&-; 16a-; 16a-; 16g-; 16g-; 16f#-; 4g-; 8d; }
 
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8f#; 8a; 2g; 4d; }
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8f#; 8a; 2g; 4b&; }
-Ebmaj7 { 2b&; 4b&; 2b&; 8c+; 8b&; 8a; 8c+; 2b&; 4c+; }
-Ebmaj7 / / / / / / Am7b5 / / { 2d+; 4c+; 8d+; 8c+; 8c+; 8b&; 8b&; 8a; 8g; 8b&; 2a; 8g; 8a; }
-Ebmaj7 { 2b&; 4b&; 2b&; 8c+; 8b&; 8a; 8c+; 2b&; 8a; 8b&; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
-F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2g-; 4d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16f#; 16a; 4g; 8d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16f#; 16a; 4g; 8b&; }
+Ebmaj7 { 4b&; 8b&; 4b&; 16c+; 16b&; 16a; 16c+; 4b&; 8c+; }
+Ebmaj7 Am7b5@4.5 { 4d+; 8c+; 16d+; 16c+; 16c+; 16b&; 16b&; 16a; 16g; 16b&; 4a; 16g; 16a; }
+Ebmaj7 { 4b&; 8b&; 4b&; 16c+; 16b&; 16a; 16c+; 4b&; 16a; 16b&; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c+; 8d+; 8+16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8a; }
+F#dim7 Cm7@2.5 Gm7@4.5 { 4f#; 8g; 8+16e&; 16d; 16e&; 16d; 16e&; 16f#; 4d; 16e&; 16d; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c; 16d; 16c; 8+16b&-; 16a-; 16a-; 16g-; 16g-; 16f#-; 4g-; 8d; }
 
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4d; }
-Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 8a; 8b&; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
-F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
-Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2+4g-; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8d; }
+Gm7 F#dim7@2.5 Gm7@4.5 { 4g; 16a; 16b&; 16c+; 16b&; 16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 16a; 16b&; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c+; 8d+; 8+16b&; 16a; 16a; 16g; 16g; 16f#; 4g; 8a; }
+F#dim7 Cm7@2.5 Gm7@4.5 { 4f#; 8g; 8+16e&; 16d; 16e&; 16d; 16e&; 16f#; 4d; 16e&; 16d; }
+Cm7 Ebmaj7@2.5 D7@4 Gm7@4.5 { 4c; 16d; 16c; 8+16b&-; 16a-; 16a-; 16g-; 16g-; 16f#-; 4g-; }
