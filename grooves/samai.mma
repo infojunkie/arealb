@@ -9,7 +9,7 @@ Timesig 10/8
 Begin Drum Define
   D 1 8 90 ; 6 8 90 ; 7 4 90
   T 4 8 90 ; 8 8 90
-  S 2 16 50 ; 2.5 16 50 ; 3 16 50 ; 3.5 16 50 ; 5 16 50 ; 5.5 16 50 ; 9 16 50 ; 9.5 16 50 ; 10 16 50 ; 10.5 16 50  
+  S 2 16 50 ; 2.5 16 50 ; 3 16 50 ; 3.5 16 50 ; 5 16 50 ; 5.5 16 50 ; 9 16 50 ; 9.5 16 50 ; 10 16 50 ; 10.5 16 50
 End
 
 Begin Drum-Dum
@@ -25,6 +25,26 @@ End
 Begin Drum-Sak
   Tone Cabasa
   Sequence S
+End
+
+Begin Bass
+    Voice AcousticBass
+    Volume m
+    Octave 3
+    Articulate 90
+    Rtime 5
+    Rvolume 5
+    Sequence { 1 8 1 90; 3 8 5- 90; 4 8 1 90; 6 8 5- 90; 7 8 5- 90; 8 8 1 90; 10 8 5- 90 }
+End
+
+Begin Chord
+    Voice Piano1
+    Articulate 90
+    Voicing Mode=Key
+    Octave 5
+    Volume p
+    Sequence { 1 4+8 90; 4 4+8 90; 7 8 90; 8 4+8 90 }
+    Rskip 20
 End
 
 DefGroove Samai

@@ -2,6 +2,36 @@
 
 Tempo 120
 
+Solo Voice TenorSax
+Groove Samai
+Chord Sequence -
+Gm7 { 2r; 2r; 2r; 2r; 4r; 4d; }
+
 Groove Samai
 
-z * 2
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4d; }
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 8a; 8b&; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
+F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2g-; 4d; }
+
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4d; }
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 8a; 8b&; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
+F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2g-; 4d; }
+
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8f#; 8a; 2g; 4d; }
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8f#; 8a; 2g; 4b&; }
+Ebmaj7 { 2b&; 4b&; 2b&; 8c+; 8b&; 8a; 8c+; 2b&; 4c+; }
+Ebmaj7 / / / / / / Am7b5 / / { 2d+; 4c+; 8d+; 8c+; 8c+; 8b&; 8b&; 8a; 8g; 8b&; 2a; 8g; 8a; }
+Ebmaj7 { 2b&; 4b&; 2b&; 8c+; 8b&; 8a; 8c+; 2b&; 8a; 8b&; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
+F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2g-; 4d; }
+
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4d; }
+Gm7 / / F#dim7 / / / Gm7 / / { 2g; 8a; 8b&; 8c+; 8b&; 8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 8a; 8b&; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c+; 4d+; 4+8b&; 8a; 8a; 8g; 8g; 8f#; 2g; 4a; }
+F#dim7 / / Cm7 / / / Gm7 / / { 2f#; 4g; 4+8e&; 8d; 8e&; 8d; 8e&; 8f#; 2d; 8e&; 8d; }
+Cm7 / / Ebmaj7 / / D7 Gm7 / / { 2c; 8d; 8c; 4+8b&-; 8a-; 8a-; 8g-; 8g-; 8f#-; 2+4g-; }
