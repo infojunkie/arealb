@@ -43,7 +43,7 @@ Begin Chord
     Voicing Mode=Key
     Octave 5
     Volume p
-    Sequence { 1 4+8 90; 2+8 4+8 90; 4 8 90; 4+8 4+8 90 }
+    Sequence { 1 4+8 90; 2+8 4 90; 3+8 4 90; 4+8 4+8 90 }
     Rskip 20
 End
 

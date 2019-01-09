@@ -1,0 +1,21 @@
+{
+  "name": "arealb",
+  "version": "1.0.0",
+  "description": "Arabic Real Book",
+  "main": "index.js",
+  "scripts": {
+    "update": "cp -r ./grooves/arabic/ /src/music/mma/lib; mma -g",
+    "play": "run(){ mma tunes/$1.mma -P; }; run",
+    "build": "run(){ mma tunes/$1.mma -f tunes/$1.mid; }; run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infojunkie/arealb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infojunkie/arealb/issues"
+  },
+  "homepage": "https://github.com/infojunkie/arealb#readme"
+}
