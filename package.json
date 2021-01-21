@@ -6,7 +6,8 @@
     "grooves": "cp -r ./grooves/arabic/ ${MMA_HOME:-../mma}/lib; ${MMA_HOME:-../mma}/mma.py -g",
     "build:musicxml": "for f in tunes/*.mscz; do ${MUSESCORE:-musescore} \"$f\" -o \"${f/.mscz/.musicxml}\"; done",
     "build:midi": "for f in tunes/*.mma; do ${MMA_HOME:-../mma}/mma.py \"$f\" -f \"${f/.mma/.mid}\"; done",
-    "build": "npm run build:musicxml && npm run build:midi",
+    "build:pdf": "./scripts/build-pdf.sh",
+    "build": "npm run build:musicxml && npm run build:midi && npm run build:pdf",
     "play": "run() { ${MMA_HOME:-../mma}/mma.py tunes/$1.mma -P; }; run"
   },
   "repository": {

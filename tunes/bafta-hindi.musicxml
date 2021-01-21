@@ -7,10 +7,9 @@
   <identification>
     <creator type="arranger">Karim Ratib</creator>
     <creator type="composer">Traditional</creator>
-    <rights>Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</rights>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2020-12-22</encoding-date>
+      <encoding-date>2021-01-20</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -44,18 +43,14 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-family="Amiri" font-size="24">Bafta hindi بفتة هندي
+    <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-family="Amiri" font-size="22">Bafta hindi بفتة هندي
 </credit-words>
     <credit-words font-size="18">Indian calico</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1167.31" default-y="1427.31" justify="right" valign="bottom" font-family="Amiri" font-size="11">Traditional تراثية
+    <credit-words default-x="1167.31" default-y="1427.31" justify="right" valign="bottom" font-family="Amiri">Traditional تراثية
 </credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>rights</credit-type>
-    <credit-words default-x="612" default-y="113.386" justify="center" valign="bottom" font-size="9">Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -73,7 +68,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="305.69">
+    <measure number="1" width="307.28">
       <print>
         <system-layout>
           <system-margins>
@@ -103,7 +98,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="78.79" default-y="-15.00">
+      <note default-x="79.12" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -117,7 +112,7 @@
           <text>Baf</text>
           </lyric>
         </note>
-      <note default-x="135.07" default-y="-15.00">
+      <note default-x="135.71" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -140,7 +135,7 @@
           <bass-step>G</bass-step>
           </bass>
         </harmony>
-      <note default-x="191.34" default-y="-30.00">
+      <note default-x="192.30" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -154,7 +149,7 @@
           <text>hin</text>
           </lyric>
         </note>
-      <note default-x="247.62" default-y="-30.00">
+      <note default-x="248.89" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -169,14 +164,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="246.32">
+    <measure number="2" width="248.83">
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="21.10" default-y="-15.00">
+      <note default-x="22.35" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -190,7 +185,7 @@
           <text>baf</text>
           </lyric>
         </note>
-      <note default-x="76.96" default-y="-15.00">
+      <note default-x="78.52" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -213,7 +208,7 @@
           <bass-step>G</bass-step>
           </bass>
         </harmony>
-      <note default-x="132.81" default-y="-30.00">
+      <note default-x="134.69" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -227,7 +222,7 @@
           <text>hin</text>
           </lyric>
         </note>
-      <note default-x="188.66" default-y="-30.00">
+      <note default-x="190.86" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -242,14 +237,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="3" width="286.16">
+    <measure number="3" width="285.69">
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="32.10" default-y="-30.00">
+      <note default-x="33.35" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -263,7 +258,7 @@
           <text>shash</text>
           </lyric>
         </note>
-      <note default-x="95.16" default-y="-30.00">
+      <note default-x="95.99" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -283,7 +278,7 @@
           </root>
         <kind text="m7b5">half-diminished</kind>
         </harmony>
-      <note default-x="158.23" default-y="-25.00">
+      <note default-x="158.62" default-y="-25.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -299,7 +294,7 @@
           <text>ree</text>
           </lyric>
         </note>
-      <note default-x="221.29" default-y="-15.00">
+      <note default-x="221.26" default-y="-15.00">
         <pitch>
           <step>C</step>
           <octave>5</octave>
@@ -314,14 +309,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="4" width="222.45">
+    <measure number="4" width="218.81">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
           </root>
         <kind text="7">dominant</kind>
         </harmony>
-      <note default-x="16.39" default-y="-20.00">
+      <note default-x="17.75" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
@@ -335,7 +330,7 @@
           <text>ya</text>
           </lyric>
         </note>
-      <note default-x="73.13" default-y="-25.00">
+      <note default-x="73.10" default-y="-25.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -357,7 +352,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="129.87" default-y="-30.00">
+      <note default-x="128.45" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -372,7 +367,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="5" width="285.72">
+    <measure number="5" width="285.98">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -388,7 +383,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="57.00" default-y="-30.00">
+      <note default-x="56.99" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -402,7 +397,7 @@
           <text>ef</text>
           </lyric>
         </note>
-      <note default-x="113.73" default-y="-30.00">
+      <note default-x="113.79" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -422,7 +417,7 @@
           </root>
         <kind text="m7b5">half-diminished</kind>
         </harmony>
-      <note default-x="170.46" default-y="-25.00">
+      <note default-x="170.59" default-y="-25.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -438,7 +433,7 @@
           <text>hoo</text>
           </lyric>
         </note>
-      <note default-x="227.19" default-y="-35.00">
+      <note default-x="227.38" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -453,14 +448,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="6" width="251.41">
+    <measure number="6" width="251.20">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
           </root>
         <kind text="7">dominant</kind>
         </harmony>
-      <note default-x="16.39" default-y="-35.00">
+      <note default-x="17.75" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -474,7 +469,7 @@
           <text>ya</text>
           </lyric>
         </note>
-      <note default-x="74.69" default-y="-35.00">
+      <note default-x="75.66" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -494,7 +489,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="133.00" default-y="-30.00">
+      <note default-x="133.57" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -508,7 +503,7 @@
           <text>ba</text>
           </lyric>
         </note>
-      <note default-x="191.30" default-y="-40.00">
+      <note default-x="191.48" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -525,7 +520,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="7" width="292.40">
+    <measure number="7" width="293.42">
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
@@ -548,7 +543,7 @@
           <text>wal</text>
           </lyric>
         </note>
-      <note default-x="87.14" default-y="-40.00">
+      <note default-x="87.39" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -569,7 +564,7 @@
           </root>
         <kind text="m7b5">half-diminished</kind>
         </harmony>
-      <note default-x="154.96" default-y="-35.00">
+      <note default-x="155.47" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -583,7 +578,7 @@
           <text>khosh</text>
           </lyric>
         </note>
-      <note default-x="222.78" default-y="-40.00">
+      <note default-x="223.55" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -599,14 +594,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="8" width="281.08">
+    <measure number="8" width="280.02">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
           </root>
         <kind text="7">dominant</kind>
         </harmony>
-      <note default-x="28.18" default-y="-45.00">
+      <note default-x="29.55" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -620,7 +615,7 @@
           <text>mnel</text>
           </lyric>
         </note>
-      <note default-x="97.93" default-y="-50.00">
+      <note default-x="98.63" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -640,7 +635,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="167.68" default-y="-30.00">
+      <note default-x="167.70" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -655,7 +650,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="9" width="303.43">
+    <measure number="9" width="303.61">
       <print new-system="yes">
         <system-layout>
           <system-margins>
@@ -671,7 +666,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="57.00" default-y="-30.00">
+      <note default-x="56.99" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -685,7 +680,7 @@
           <text>ef</text>
           </lyric>
         </note>
-      <note default-x="118.16" default-y="-30.00">
+      <note default-x="118.20" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -705,7 +700,7 @@
           </root>
         <kind text="m7b5">half-diminished</kind>
         </harmony>
-      <note default-x="179.31" default-y="-25.00">
+      <note default-x="179.40" default-y="-25.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
@@ -721,7 +716,7 @@
           <text>hee</text>
           </lyric>
         </note>
-      <note default-x="240.47" default-y="-35.00">
+      <note default-x="240.61" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -736,14 +731,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="10" width="275.80">
+    <measure number="10" width="279.01">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
           </root>
         <kind text="7">dominant</kind>
         </harmony>
-      <note default-x="16.39" default-y="-35.00">
+      <note default-x="17.75" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -757,7 +752,7 @@
           <text>ya</text>
           </lyric>
         </note>
-      <note default-x="80.79" default-y="-35.00">
+      <note default-x="82.62" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -777,7 +772,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="145.19" default-y="-30.00">
+      <note default-x="147.48" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -791,7 +786,7 @@
           <text>bey</text>
           </lyric>
         </note>
-      <note default-x="209.59" default-y="-40.00">
+      <note default-x="212.34" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -808,7 +803,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="11" width="271.17">
+    <measure number="11" width="271.04">
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
@@ -831,7 +826,7 @@
           <text>'an</text>
           </lyric>
         </note>
-      <note default-x="81.83" default-y="-40.00">
+      <note default-x="81.80" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -852,7 +847,7 @@
           </root>
         <kind text="m7b5">half-diminished</kind>
         </harmony>
-      <note default-x="144.34" default-y="-35.00">
+      <note default-x="144.28" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -866,7 +861,7 @@
           <text>bda</text>
           </lyric>
         </note>
-      <note default-x="206.86" default-y="-40.00">
+      <note default-x="206.76" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
@@ -882,14 +877,14 @@
           </lyric>
         </note>
       </measure>
-    <measure number="12" width="260.22">
+    <measure number="12" width="256.96">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
           </root>
         <kind text="7">dominant</kind>
         </harmony>
-      <note default-x="16.58" default-y="-45.00">
+      <note default-x="17.95" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -903,7 +898,7 @@
           <text>lel</text>
           </lyric>
         </note>
-      <note default-x="81.44" default-y="-50.00">
+      <note default-x="81.52" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -923,7 +918,7 @@
           </root>
         <kind text="m">minor</kind>
         </harmony>
-      <note default-x="146.30" default-y="-50.00">
+      <note default-x="145.09" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>
@@ -946,7 +941,7 @@
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
+            <right-margin>-0.00</right-margin>
             </system-margins>
           <system-distance>375.20</system-distance>
           </system-layout>
@@ -969,18 +964,18 @@
 </words>
           </direction-type>
         </direction>
-      <direction placement="below">
-        <direction-type>
-          <words default-y="-40.00" relative-y="-43.32" font-family="Amiri">C harmonic minor / Nahawand ascending نهاوند</words>
-          </direction-type>
-        </direction>
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
           </root>
         <kind text="mmaj7">major-minor</kind>
         </harmony>
-      <note default-x="64.60" default-y="-50.00">
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-40.00" relative-y="-43.32" font-family="Amiri">C harmonic minor / Nahawand ascending نهاوند</words>
+          </direction-type>
+        </direction>
+      <note default-x="64.59" default-y="-50.00">
         <pitch>
           <step>C</step>
           <octave>4</octave>

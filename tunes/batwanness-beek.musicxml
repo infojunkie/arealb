@@ -449,7 +449,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="74.35" default-y="-50.00">
@@ -712,7 +712,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -1115,7 +1115,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-40.00">
@@ -1493,7 +1493,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-40.00">
@@ -1741,7 +1741,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-40.00">
@@ -1945,7 +1945,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -2314,7 +2314,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -3097,7 +3097,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>90.66</system-distance>
           </system-layout>
         </print>
       <note default-x="70.85" default-y="-30.00">
@@ -3447,13 +3447,13 @@
         </barline>
       </measure>
     <measure number="59" width="293.59">
-      <print new-system="yes">
+      <print new-page="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>95.27</system-distance>
+          <top-system-distance>73.66</top-system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -3519,7 +3519,7 @@
       <note default-x="252.23" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3568,7 +3568,7 @@
       <note default-x="100.82" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3614,7 +3614,7 @@
       <note default-x="224.32" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3664,7 +3664,7 @@
       <note default-x="100.82" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3710,7 +3710,7 @@
       <note default-x="224.32" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3760,7 +3760,7 @@
       <note default-x="101.94" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3840,7 +3840,7 @@
       <note default-x="217.94" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3903,7 +3903,7 @@
       <note default-x="129.04" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3927,7 +3927,7 @@
       <note default-x="188.99" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -3999,7 +3999,7 @@
       <note default-x="129.04" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -4023,7 +4023,7 @@
       <note default-x="188.99" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -4113,7 +4113,7 @@
       <note default-x="160.10" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
@@ -4148,7 +4148,7 @@
       <note default-x="207.34" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -4170,11 +4170,11 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>86.26</system-distance>
+          <system-distance>85.00</system-distance>
           </system-layout>
         </print>
       <barline location="left">
-        <ending number="2" type="start" default-y="64.10"/>
+        <ending number="2" type="start" default-y="32.95"/>
         </barline>
       <note default-x="58.59" default-y="-25.00">
         <pitch>
@@ -4211,7 +4211,7 @@
       <note default-x="252.92" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -4224,7 +4224,7 @@
       <note default-x="302.10" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -4704,11 +4704,11 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>94.97</system-distance>
+          <system-distance>85.00</system-distance>
           </system-layout>
         </print>
       <barline location="left">
-        <ending number="1" type="start" default-y="64.10"/>
+        <ending number="1" type="start" default-y="47.48"/>
         </barline>
       <note>
         <rest/>
@@ -4858,8 +4858,14 @@
       </measure>
     <measure number="78" width="191.99">
       <barline location="left">
-        <ending number="2" type="start" default-y="64.10"/>
+        <ending number="2" type="start" default-y="47.48"/>
         </barline>
+      <direction placement="above">
+        <direction-type>
+          <coda relative-y="20.00"/>
+          </direction-type>
+        <sound coda="coda"/>
+        </direction>
       <note>
         <rest/>
         <duration>12</duration>
@@ -4906,12 +4912,6 @@
         <type>eighth</type>
         <stem>up</stem>
         </note>
-      <direction placement="above">
-        <direction-type>
-          <words relative-y="20.00">To Coda</words>
-          </direction-type>
-        <sound tocoda="codab"/>
-        </direction>
       <barline location="right">
         <ending number="2" type="discontinue"/>
         </barline>
@@ -6668,12 +6668,12 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>97.04</system-distance>
+          <system-distance>104.38</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
         <direction-type>
-          <rehearsal relative-x="54.30" relative-y="38.16" font-weight="bold" font-size="14">Verse C</rehearsal>
+          <rehearsal default-x="-25.00" default-y="7.34" relative-x="54.30" relative-y="38.16" font-weight="bold" font-size="14">Verse C</rehearsal>
           </direction-type>
         </direction>
       <note default-x="58.59" default-y="-45.00">
@@ -6899,13 +6899,13 @@
         </note>
       </measure>
     <measure number="107" width="280.43">
-      <print new-system="yes">
+      <print new-page="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <top-system-distance>70.00</top-system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7151,7 +7151,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7371,7 +7371,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7679,7 +7679,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7961,7 +7961,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note>
@@ -8142,7 +8142,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -8169,7 +8169,7 @@
       <note default-x="160.00" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8193,7 +8193,7 @@
       <note default-x="275.10" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8211,7 +8211,7 @@
       <note default-x="13.00" default-y="-35.00">
         <pitch>
           <step>F</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8368,7 +8368,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>88.95</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
@@ -8426,7 +8426,7 @@
       <note default-x="239.06" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>9</duration>
@@ -8489,7 +8489,7 @@
       <note default-x="160.56" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8502,7 +8502,7 @@
       <note default-x="189.86" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8529,7 +8529,7 @@
       <note default-x="59.98" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -8554,7 +8554,7 @@
       <note default-x="122.59" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8631,7 +8631,7 @@
       <note default-x="157.62" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -8648,7 +8648,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -8675,7 +8675,7 @@
       <note default-x="144.79" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -8867,7 +8867,7 @@
       <note default-x="199.10" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -8884,7 +8884,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -8902,7 +8902,7 @@
       <note default-x="102.89" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -8927,7 +8927,7 @@
       <note default-x="161.92" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -9016,7 +9016,7 @@
       <note default-x="168.42" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -9051,7 +9051,7 @@
       <note default-x="92.84" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -9170,11 +9170,11 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>94.97</system-distance>
+          <system-distance>92.87</system-distance>
           </system-layout>
         </print>
       <barline location="left">
-        <ending number="1" type="start" default-y="64.10"/>
+        <ending number="1" type="start" default-y="33.10"/>
         </barline>
       <note default-x="62.09" default-y="-70.00">
         <pitch>
@@ -9244,7 +9244,7 @@
       </measure>
     <measure number="144" width="210.74">
       <barline location="left">
-        <ending number="2" type="start" default-y="64.10"/>
+        <ending number="2" type="start" default-y="33.10"/>
         </barline>
       <note default-x="16.50" default-y="-70.00">
         <pitch>
@@ -9458,7 +9458,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <system-distance>91.99</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -9475,7 +9475,7 @@
       <note default-x="92.87" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -9609,7 +9609,7 @@
       <note default-x="47.27" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -9622,7 +9622,7 @@
       <note default-x="79.59" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -9655,7 +9655,7 @@
       <note default-x="215.32" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -9674,7 +9674,7 @@
       <note default-x="16.50" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -9690,7 +9690,7 @@
       <note default-x="62.33" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>18</duration>
@@ -9760,13 +9760,13 @@
         </note>
       </measure>
     <measure number="151" width="272.06">
-      <print new-system="yes">
+      <print new-page="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.00</system-distance>
+          <top-system-distance>70.00</top-system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-35.00">
@@ -9891,7 +9891,7 @@
       <note default-x="48.11" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -10037,11 +10037,11 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>86.73</system-distance>
+          <system-distance>235.00</system-distance>
           </system-layout>
         </print>
       <barline location="left">
-        <ending number="1" type="start" default-y="64.10"/>
+        <ending number="1" type="start" default-y="33.10"/>
         </barline>
       <note default-x="58.59" default-y="-45.00">
         <pitch>
@@ -10057,7 +10057,7 @@
       <note default-x="92.87" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -10070,7 +10070,7 @@
       <note default-x="122.18" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -10103,7 +10103,7 @@
       <note default-x="245.27" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -10122,7 +10122,7 @@
       <note default-x="16.50" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -10138,7 +10138,7 @@
       <note default-x="62.33" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>18</duration>
@@ -10200,7 +10200,7 @@
       <note default-x="264.62" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>3</duration>
@@ -10243,7 +10243,7 @@
       </measure>
     <measure number="157" width="230.78">
       <barline location="left">
-        <ending number="2" type="start" default-y="64.10"/>
+        <ending number="2" type="start" default-y="33.10"/>
         </barline>
       <note default-x="13.00" default-y="-45.00">
         <pitch>
@@ -10259,7 +10259,7 @@
       <note default-x="47.27" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -10272,7 +10272,7 @@
       <note default-x="76.58" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>12</duration>
@@ -10305,7 +10305,7 @@
       <note default-x="199.67" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>6</duration>
@@ -10323,7 +10323,7 @@
       <note default-x="25.78" default-y="-50.00">
         <pitch>
           <step>C</step>
-          <alter>1</alter>
+          <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
         <duration>24</duration>
