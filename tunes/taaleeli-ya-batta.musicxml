@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-20</encoding-date>
+      <encoding-date>2021-01-21</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -41,76 +41,8 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-family="Amiri" font-size="22">Ta'aleeli ya batta تعالي لى يا بطة</credit-words>
-    </credit>
-  <credit page="2">
-    <credit-words default-x="56.6929" default-y="1527.11" justify="left" valign="top" font-family="Amiri">تعالي لى يا بطة و انا و انا مالي هيه.. هيه.. هيه
+    <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-family="FreeSerif" font-size="22">Ta'aleeli ya batta تعالي لى يا بطة
 </credit-words>
-    <credit-words>نار بُعدك شطة و انا و انا مالي هيه.. هيه.. هيه
-</credit-words>
-    <credit-words>تعالي لى يا بطة و انا مالي هيه
-</credit-words>
-    <credit-words>نار بعدك شطة و انا مالي هيه
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>رنة قبقابك في الحتة
-</credit-words>
-    <credit-words>راح ياكل من كعبك حتة.. حتة.. حتة..
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>و عيون بصّولي .. تحت البلكونة
-</credit-words>
-    <credit-words>ضحكم و قالولي .. نابك على شونة
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>قال عاوزة حبيبها بجكتة
-</credit-words>
-    <credit-words>و قميص أفرنجي و جرفتة
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>خلوني ساعتها اتلخبط
-</credit-words>
-    <credit-words>كده برده يا بطة و انا و انا مالي هيه.. هيه.. هيه
-</credit-words>
-    <credit-words>نار بعدك شطة و انا و انا مالي هيه.. هيه.. هيه
-</credit-words>
-    <credit-words>تعالي لى يا بطة و انا مالي هيه
-</credit-words>
-    <credit-words>نار بعدك شطة و انا مالي هيه
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>من يوم ما رأيتك قدامي
-</credit-words>
-    <credit-words>و ليلاتي أشوفك في منامي.. منامي.. منامي
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>و احلم بالفرحة .. و قعادك جنبي
-</credit-words>
-    <credit-words>و عليكي الترحة .. و البدلة البمبي
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>و ان كنت احكيلك أحلامي
-</credit-words>
-    <credit-words>تقولي لي بلاش شغل أونطة
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>و تمُطّي شفايفك كام مطّة
-</credit-words>
-    <credit-words>كده برده يا بطة و انا و انا مالي هيه.. هيه.. هيه
-</credit-words>
-    <credit-words>نار بعدك شطة و انا و انا مالي هيه.. هيه.. هيه
-</credit-words>
-    <credit-words>تعالي لى يا بطة و انا مالي هيه
-</credit-words>
-    <credit-words>نار بعدك شطة و انا مالي هيه</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -1701,7 +1633,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>1255.60</top-system-distance>
+          <top-system-distance>70.00</top-system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -1712,7 +1644,7 @@
         </harmony>
       <direction placement="below">
         <direction-type>
-          <words default-y="-40.00" relative-y="-28.02" font-family="Amiri">F harmonic minor / Nahawand ascending نهاوند</words>
+          <words default-y="-40.00" relative-y="-28.02" font-family="FreeSerif">F harmonic minor / Nahawand ascending نهاوند</words>
           </direction-type>
         </direction>
       <note default-x="56.99" default-y="-35.00">

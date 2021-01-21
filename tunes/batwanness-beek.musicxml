@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-20</encoding-date>
+      <encoding-date>2021-01-21</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -41,11 +41,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="600" default-y="1611.43" justify="center" valign="top" font-family="Amiri" font-size="22">Batwanness beek بتونّس بيك</credit-words>
+    <credit-words default-x="600" default-y="1611.43" justify="center" valign="top" font-family="FreeSerif" font-size="22">Batwanness beek بتونّس بيك</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1114.29" default-y="1511.43" justify="right" valign="bottom" font-family="Amiri">Salah El Sharnoubi صلاح الشرنوبي</credit-words>
+    <credit-words default-x="1114.29" default-y="1511.43" justify="right" valign="bottom" font-family="FreeSerif">Salah El Sharnoubi صلاح الشرنوبي</credit-words>
     </credit>
   <part-list>
     <part-group type="start" number="1">

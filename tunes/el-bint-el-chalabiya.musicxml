@@ -8,7 +8,7 @@
     <creator type="composer">Traditional</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-20</encoding-date>
+      <encoding-date>2021-01-21</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -42,34 +42,15 @@
     </defaults>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1133.86" default-y="1502.09" justify="right" valign="bottom" font-family="Amiri" font-size="12">Rahbani Brothers الأخوين رحباني</credit-words>
+    <credit-words default-x="1133.86" default-y="1502.09" justify="right" valign="bottom" font-family="FreeSerif" font-size="12">Rahbani Brothers الأخوين رحباني</credit-words>
     </credit>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="595.275" default-y="1627.09" justify="center" valign="top" font-family="Amiri" font-size="24">El bint el chalabiya البنت الشلبية</credit-words>
+    <credit-words default-x="595.275" default-y="1627.09" justify="center" valign="top" font-family="FreeSerif" font-size="24">El bint el chalabiya البنت الشلبية</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="56.6929" default-y="560.766" justify="left" valign="top" font-family="Amiri">البنت الشلبية .. عيونا لوزية
-</credit-words>
-    <credit-words>بحبك من قلبي .. ياقلبي انتي عينيا
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>حد القناطر .. محبوبي ناطر
-</credit-words>
-    <credit-words>كسر الخواطر .. ياولفي ماهان عليا
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>بتطل بتلوح .. و القلب مجروح
-</credit-words>
-    <credit-words>و أيام عالبال .. بتعن و تروح
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>تحت الرمانة .. حبي حاكاني
-</credit-words>
-    <credit-words>و سمعني غناني يا عيوني .. و أتغزل فيا</credit-words>
+    <credit-type>subtitle</credit-type>
+    <credit-words default-x="595.275" default-y="1570.39" justify="center" valign="top" font-family="FreeSerif" font-size="18">The Shalabiya girl</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -436,7 +417,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>106.23</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -686,7 +667,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>106.23</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <note>
@@ -1078,7 +1059,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>106.23</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <note default-x="56.99" default-y="-30.00">
@@ -1439,7 +1420,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>106.23</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
@@ -1769,7 +1750,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>106.23</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -2071,14 +2052,14 @@
         <bar-style>light-heavy</bar-style>
         </barline>
       </measure>
-    <measure number="30" width="191.98">
-      <print new-page="yes">
+    <measure number="X1" implicit="yes" width="191.98">
+      <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>70.00</top-system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -2089,7 +2070,7 @@
         </harmony>
       <direction placement="below">
         <direction-type>
-          <words default-y="-40.00" relative-y="-41.66" font-family="Amiri">C harmonic minor / Nahawand ascending نهاوند</words>
+          <words default-y="-40.00" relative-y="-41.66" font-family="FreeSerif">C harmonic minor / Nahawand ascending نهاوند</words>
           </direction-type>
         </direction>
       <note default-x="64.59" default-y="-50.00">
@@ -2106,7 +2087,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="31" width="147.59">
+    <measure number="X2" implicit="yes" width="147.59">
       <harmony print-frame="no">
         <root>
           <root-step>D</root-step>
@@ -2127,7 +2108,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="32" width="147.59">
+    <measure number="X3" implicit="yes" width="147.59">
       <harmony print-frame="no">
         <root>
           <root-step>E</root-step>
@@ -2156,7 +2137,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="33" width="147.59">
+    <measure number="X4" implicit="yes" width="147.59">
       <harmony print-frame="no">
         <root>
           <root-step>F</root-step>
@@ -2177,7 +2158,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="34" width="147.59">
+    <measure number="X5" implicit="yes" width="147.59">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
@@ -2198,7 +2179,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="35" width="147.59">
+    <measure number="X6" implicit="yes" width="147.59">
       <harmony print-frame="no">
         <root>
           <root-step>A</root-step>
@@ -2222,7 +2203,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="36" width="147.59">
+    <measure number="X7" implicit="yes" width="147.59">
       <harmony print-frame="no">
         <root>
           <root-step>B</root-step>

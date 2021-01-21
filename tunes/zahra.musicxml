@@ -8,7 +8,7 @@
     <creator type="composer">Hassan El-Hadi</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-20</encoding-date>
+      <encoding-date>2021-01-21</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -42,27 +42,11 @@
     </defaults>
   <credit page="1">
     <credit-type>title</credit-type>
-    <credit-words default-x="612" default-y="1498.96" justify="center" valign="top" font-family="Amiri" font-size="22">Zahra زهرة</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>subtitle</credit-type>
-    <credit-words default-x="612" default-y="1442.27" justify="center" valign="top" font-size="18">The Rose</credit-words>
+    <credit-words default-x="612" default-y="1498.96" justify="center" valign="top" font-family="FreeSerif" font-size="22">Zahra زهرة</credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
-    <credit-words default-x="1138.96" default-y="1398.96" justify="right" valign="bottom" font-family="Amiri">Hassan El-Hadi حسن الهادي</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-words default-x="85.0393" default-y="833.412" justify="left" valign="top" font-family="Amiri">قلت زهرة العيون
-</credit-words>
-    <credit-words>زهرة لحبها خلاني مجنون
-</credit-words>
-    <credit-words>
-</credit-words>
-    <credit-words>قلت اسمها زهرة
-</credit-words>
-    <credit-words>زهرة لشعرها خلاني مفتون
-</credit-words>
+    <credit-words default-x="1138.96" default-y="1398.96" justify="right" valign="bottom" font-family="FreeSerif">Hassan El-Hadi حسن الهادي</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -998,9 +982,6 @@
         </note>
       </measure>
     <measure number="12" width="314.85">
-      <barline location="left">
-        <ending number="1" type="start" default-y="-8.16"/>
-        </barline>
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
@@ -1081,14 +1062,10 @@
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="1" type="stop"/>
         <repeat direction="backward"/>
         </barline>
       </measure>
     <measure number="13" width="187.44">
-      <barline location="left">
-        <ending number="2" type="start" default-y="-8.16"/>
-        </barline>
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
@@ -1113,7 +1090,6 @@
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
-        <ending number="2" type="stop"/>
         </barline>
       </measure>
     <measure number="14" width="179.52">
@@ -1123,7 +1099,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>312.90</system-distance>
+          <system-distance>150.00</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
@@ -1133,7 +1109,7 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-y="40.00" font-family="Amiri">C Dorian #4 / Nakriz نكريز</words>
+          <words relative-y="40.00" font-family="FreeSerif">C Dorian #4 / Nakriz نكريز</words>
           </direction-type>
         </direction>
       <note default-x="64.59" default-y="-50.00">
@@ -1270,7 +1246,7 @@
         </direction>
       <direction placement="above">
         <direction-type>
-          <words relative-y="40.00" font-family="Amiri">C Hungarian minor / Nawa Athar نوا أثر</words>
+          <words relative-y="40.00" font-family="FreeSerif">C Hungarian minor / Nawa Athar نوا أثر</words>
           </direction-type>
         </direction>
       <note default-x="64.59" default-y="-50.00">
