@@ -8,7 +8,7 @@
     <creator type="composer">Traditional</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-21</encoding-date>
+      <encoding-date>2021-01-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -76,7 +76,7 @@
             <left-margin>50.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <top-system-distance>224.16</top-system-distance>
+          <top-system-distance>222.96</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -95,7 +95,7 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-20.55" default-y="35.02" relative-x="-40.16" relative-y="35.74" font-weight="bold" font-size="14">Intro</rehearsal>
+          <rehearsal default-x="-20.55" default-y="34.42" relative-x="-40.16" relative-y="35.74" font-weight="bold" font-size="14">Intro</rehearsal>
           </direction-type>
         </direction>
       <direction placement="above">
@@ -417,7 +417,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>140.15</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -432,7 +432,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-43.33" default-y="8.15" relative-x="-36.34" relative-y="37.65" font-weight="bold" font-size="14">A</rehearsal>
+          <rehearsal default-x="-43.33" default-y="7.55" relative-x="-36.34" relative-y="37.65" font-weight="bold" font-size="14">A</rehearsal>
           </direction-type>
         </direction>
       <note>
@@ -667,7 +667,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>140.15</system-distance>
           </system-layout>
         </print>
       <note>
@@ -1059,7 +1059,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>140.15</system-distance>
           </system-layout>
         </print>
       <note default-x="56.99" default-y="-30.00">
@@ -1420,12 +1420,12 @@
             <left-margin>0.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>140.15</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-25.00" default-y="11.02" relative-x="-17.21" relative-y="34.78" font-weight="bold" font-size="14">B</rehearsal>
+          <rehearsal default-x="-25.00" default-y="10.42" relative-x="-17.21" relative-y="34.78" font-weight="bold" font-size="14">B</rehearsal>
           </direction-type>
         </direction>
       <note>
@@ -1750,7 +1750,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>140.15</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -2052,16 +2052,22 @@
         <bar-style>light-heavy</bar-style>
         </barline>
       </measure>
-    <measure number="X1" implicit="yes" width="191.98">
+    <measure number="X1" implicit="yes" width="193.53">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>240.00</system-distance>
           </system-layout>
         </print>
+      <attributes>
+        <time symbol="common" print-object="no">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        </attributes>
       <harmony print-frame="no">
         <root>
           <root-step>C</root-step>
@@ -2078,37 +2084,37 @@
           <step>C</step>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X2" implicit="yes" width="147.59">
+    <measure number="X2" implicit="yes" width="146.25">
       <harmony print-frame="no">
         <root>
           <root-step>D</root-step>
           </root>
         <kind text="m7b5">half-diminished</kind>
         </harmony>
-      <note default-x="14.50" default-y="-45.00">
+      <note default-x="13.54" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X3" implicit="yes" width="147.59">
+    <measure number="X3" implicit="yes" width="147.29">
       <harmony print-frame="no">
         <root>
           <root-step>E</root-step>
@@ -2121,15 +2127,15 @@
           <degree-type>alter</degree-type>
           </degree>
         </harmony>
-      <note default-x="19.32" default-y="-40.00">
+      <note default-x="18.36" default-y="-40.00">
         <pitch>
           <step>E</step>
           <alter>-1</alter>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <accidental>flat</accidental>
         <stem>none</stem>
         </note>
@@ -2137,49 +2143,49 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X4" implicit="yes" width="147.59">
+    <measure number="X4" implicit="yes" width="146.25">
       <harmony print-frame="no">
         <root>
           <root-step>F</root-step>
           </root>
         <kind text="m7">minor-seventh</kind>
         </harmony>
-      <note default-x="14.50" default-y="-35.00">
+      <note default-x="13.54" default-y="-35.00">
         <pitch>
           <step>F</step>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X5" implicit="yes" width="147.59">
+    <measure number="X5" implicit="yes" width="146.25">
       <harmony print-frame="no">
         <root>
           <root-step>G</root-step>
           </root>
         <kind text="7">dominant</kind>
         </harmony>
-      <note default-x="14.50" default-y="-30.00">
+      <note default-x="13.54" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X6" implicit="yes" width="147.59">
+    <measure number="X6" implicit="yes" width="147.29">
       <harmony print-frame="no">
         <root>
           <root-step>A</root-step>
@@ -2187,15 +2193,15 @@
           </root>
         <kind text="maj7">major-seventh</kind>
         </harmony>
-      <note default-x="19.32" default-y="-25.00">
+      <note default-x="18.36" default-y="-25.00">
         <pitch>
           <step>A</step>
           <alter>-1</alter>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <accidental>flat</accidental>
         <stem>none</stem>
         </note>
@@ -2203,7 +2209,7 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X7" implicit="yes" width="147.59">
+    <measure number="X7" implicit="yes" width="150.63">
       <harmony print-frame="no">
         <root>
           <root-step>B</root-step>
@@ -2215,9 +2221,9 @@
           <step>B</step>
           <octave>4</octave>
           </pitch>
-        <duration>8</duration>
+        <duration>16</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">

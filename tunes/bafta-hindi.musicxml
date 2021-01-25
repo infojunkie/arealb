@@ -9,7 +9,7 @@
     <creator type="composer">Traditional</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-21</encoding-date>
+      <encoding-date>2021-01-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -766,7 +766,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>240.00</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">

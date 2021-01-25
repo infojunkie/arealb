@@ -8,7 +8,7 @@
     <creator type="composer">Hassan El-Hadi</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-21</encoding-date>
+      <encoding-date>2021-01-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -523,7 +523,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-53.95" default-y="15.80" relative-x="-21.42" relative-y="30.00" font-weight="bold" font-size="14">B</rehearsal>
+          <rehearsal default-x="-53.95" default-y="15.20" relative-x="-21.42" relative-y="30.00" font-weight="bold" font-size="14">B</rehearsal>
           </direction-type>
         </direction>
       <note default-x="90.94" default-y="-25.00">
@@ -1099,7 +1099,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>240.00</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
@@ -1107,9 +1107,9 @@
           <rehearsal default-x="-33.56" relative-x="-36.72" relative-y="37.14" font-weight="bold" font-size="14">A</rehearsal>
           </direction-type>
         </direction>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
-          <words relative-y="40.00" font-family="FreeSerif">C Dorian #4 / Nakriz نكريز</words>
+          <words default-y="-40.00" relative-x="1.02" relative-y="-30.16" font-family="FreeSerif">C Dorian #4 / Nakriz نكريز</words>
           </direction-type>
         </direction>
       <note default-x="64.59" default-y="-50.00">
@@ -1244,9 +1244,9 @@
           <rehearsal default-x="-33.56" relative-x="-37.74" relative-y="33.06" font-weight="bold" font-size="14">B</rehearsal>
           </direction-type>
         </direction>
-      <direction placement="above">
+      <direction placement="below">
         <direction-type>
-          <words relative-y="40.00" font-family="FreeSerif">C Hungarian minor / Nawa Athar نوا أثر</words>
+          <words default-y="-40.00" relative-x="-1.02" relative-y="-28.12" font-family="FreeSerif">C Hungarian minor / Nawa Athar نوا أثر</words>
           </direction-type>
         </direction>
       <note default-x="64.59" default-y="-50.00">

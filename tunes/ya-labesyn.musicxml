@@ -7,7 +7,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-21</encoding-date>
+      <encoding-date>2021-01-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -748,16 +748,22 @@
         <bar-style>light-heavy</bar-style>
         </barline>
       </measure>
-    <measure number="X1" implicit="yes" width="171.02">
+    <measure number="X1" implicit="yes" width="173.09">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>240.00</system-distance>
           </system-layout>
         </print>
+      <attributes>
+        <time symbol="common" print-object="no">
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+          </time>
+        </attributes>
       <direction>
         <direction-type>
           <words default-y="-40.00" relative-y="-48.12" font-family="FreeSerif">D Rast راست</words>
@@ -768,40 +774,40 @@
           <step>D</step>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X2" implicit="yes" width="134.23">
+    <measure number="X2" implicit="yes" width="133.41">
       <note default-x="12.00" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X3" implicit="yes" width="134.23">
-      <note default-x="18.40" default-y="-35.00">
+    <measure number="X3" implicit="yes" width="133.53">
+      <note default-x="17.44" default-y="-35.00">
         <pitch>
           <step>F</step>
           <alter>0.5</alter>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <accidental>quarter-sharp</accidental>
         <stem>none</stem>
         </note>
@@ -809,61 +815,61 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X4" implicit="yes" width="134.23">
+    <measure number="X4" implicit="yes" width="133.41">
       <note default-x="12.00" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X5" implicit="yes" width="134.23">
+    <measure number="X5" implicit="yes" width="133.41">
       <note default-x="12.00" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X6" implicit="yes" width="134.23">
-      <note default-x="12.00" default-y="-20.00">
+    <measure number="X6" implicit="yes" width="133.22">
+      <note default-x="12.96" default-y="-20.00">
         <pitch>
           <step>B</step>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X7" implicit="yes" width="134.23">
-      <note default-x="18.40" default-y="-15.00">
+    <measure number="X7" implicit="yes" width="134.30">
+      <note default-x="19.36" default-y="-15.00">
         <pitch>
           <step>C</step>
           <alter>0.5</alter>
           <octave>5</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <accidental>quarter-sharp</accidental>
         <stem>none</stem>
         </note>
@@ -871,15 +877,15 @@
         <bar-style>none</bar-style>
         </barline>
       </measure>
-    <measure number="X8" implicit="yes" width="134.23">
-      <note default-x="12.00" default-y="-10.00">
+    <measure number="X8" implicit="yes" width="136.25">
+      <note default-x="12.96" default-y="-10.00">
         <pitch>
           <step>D</step>
           <octave>5</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
+        <type>whole</type>
         <stem>none</stem>
         </note>
       <barline location="right">

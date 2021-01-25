@@ -8,7 +8,7 @@
     <creator type="composer">Andalusian traditional</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-21</encoding-date>
+      <encoding-date>2021-01-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -527,7 +527,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>103.76</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -833,7 +833,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>103.76</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -1003,7 +1003,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>103.76</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -1377,7 +1377,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>103.76</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -1797,7 +1797,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>103.76</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -2103,7 +2103,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>103.76</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
@@ -2263,7 +2263,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.23</system-distance>
+          <system-distance>240.00</system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -2280,7 +2280,7 @@
         </harmony>
       <direction placement="below">
         <direction-type>
-          <words default-y="-40.00" relative-y="-43.32" font-family="FreeSerif">G harmonic minor / Nahawand ascending نهاوند</words>
+          <words default-y="-40.00" relative-y="-27.00" font-family="FreeSerif">G harmonic minor / Nahawand ascending نهاوند</words>
           </direction-type>
         </direction>
       <note default-x="58.79" default-y="-30.00">

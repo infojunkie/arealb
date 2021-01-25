@@ -8,7 +8,7 @@
     <creator type="composer">Baligh Hamdy</creator>
     <encoding>
       <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-21</encoding-date>
+      <encoding-date>2021-01-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -537,7 +537,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-43.33" default-y="20.68" relative-x="-28.56" relative-y="25.92" font-weight="bold" font-size="14">R2</rehearsal>
+          <rehearsal default-x="-43.33" default-y="20.08" relative-x="-28.56" relative-y="25.92" font-weight="bold" font-size="14">R2</rehearsal>
           </direction-type>
         </direction>
       <note default-x="80.32" default-y="-40.00">
@@ -1069,7 +1069,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-43.33" default-y="22.72" relative-x="-26.52" relative-y="23.88" font-weight="bold" font-size="14">R3</rehearsal>
+          <rehearsal default-x="-43.33" default-y="22.12" relative-x="-26.52" relative-y="23.88" font-weight="bold" font-size="14">R3</rehearsal>
           </direction-type>
         </direction>
       <note default-x="80.32" default-y="-40.00">
@@ -1567,7 +1567,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-43.33" default-y="22.72" relative-x="-27.54" relative-y="23.88" font-weight="bold" font-size="14">V1</rehearsal>
+          <rehearsal default-x="-43.33" default-y="22.12" relative-x="-27.54" relative-y="23.88" font-weight="bold" font-size="14">V1</rehearsal>
           </direction-type>
         </direction>
       <note default-x="80.32" default-y="-30.00">
@@ -2009,7 +2009,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-43.33" default-y="23.74" relative-x="-27.54" relative-y="22.86" font-weight="bold" font-size="14">V2</rehearsal>
+          <rehearsal default-x="-43.33" default-y="23.14" relative-x="-27.54" relative-y="22.86" font-weight="bold" font-size="14">V2</rehearsal>
           </direction-type>
         </direction>
       <note default-x="80.32" default-y="-15.00">
@@ -2596,7 +2596,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-53.95" default-y="22.72" relative-x="-27.54" relative-y="23.88" font-weight="bold" font-size="14">R4</rehearsal>
+          <rehearsal default-x="-53.95" default-y="22.12" relative-x="-27.54" relative-y="23.88" font-weight="bold" font-size="14">R4</rehearsal>
           </direction-type>
         </direction>
       <direction placement="below">
@@ -3084,7 +3084,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-53.95" default-y="22.72" relative-x="-24.48" relative-y="23.88" font-weight="bold" font-size="14">V3</rehearsal>
+          <rehearsal default-x="-53.95" default-y="22.12" relative-x="-24.48" relative-y="23.88" font-weight="bold" font-size="14">V3</rehearsal>
           </direction-type>
         </direction>
       <note default-x="90.94" default-y="-25.00">
@@ -3451,7 +3451,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <rehearsal default-x="-43.33" default-y="22.72" relative-x="-23.46" relative-y="23.88" font-weight="bold" font-size="14">V4</rehearsal>
+          <rehearsal default-x="-43.33" default-y="22.12" relative-x="-23.46" relative-y="23.88" font-weight="bold" font-size="14">V4</rehearsal>
           </direction-type>
         </direction>
       <note default-x="80.32" default-y="-40.00">
@@ -3837,11 +3837,6 @@
       <direction placement="above">
         <direction-type>
           <rehearsal default-x="-14.50" relative-x="-19.14" relative-y="25.92" font-weight="bold" font-size="14">X</rehearsal>
-          </direction-type>
-        </direction>
-      <direction placement="below">
-        <direction-type>
-          <words default-y="-40.00" relative-x="-24.48" relative-y="-15.78">Hijaz</words>
           </direction-type>
         </direction>
       <note default-x="14.50" default-y="-15.00">
@@ -4281,7 +4276,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>240.00</system-distance>
           </system-layout>
         </print>
       <harmony print-frame="no">
