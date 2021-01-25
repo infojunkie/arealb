@@ -72,7 +72,7 @@
             <left-margin>50.00</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <top-system-distance>170.00</top-system-distance>
+          <top-system-distance>194.90</top-system-distance>
           </system-layout>
         </print>
       <attributes>
@@ -91,7 +91,7 @@
         </attributes>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-x="-45.28" relative-y="20.00">
+          <metronome parentheses="no" default-x="-45.28" relative-x="-1.02" relative-y="75.08">
             <beat-unit>quarter</beat-unit>
             <per-minute>70</per-minute>
             </metronome>
@@ -354,7 +354,7 @@
       </measure>
     <measure number="4" width="151.71">
       <barline location="left">
-        <ending number="1" type="start" default-y="-8.16"/>
+        <ending number="1" type="start" default-y="66.30"/>
         </barline>
       <harmony print-frame="no">
         <root>
@@ -408,7 +408,7 @@
       </measure>
     <measure number="5" width="203.04">
       <barline location="left">
-        <ending number="2" type="start" default-y="-8.16"/>
+        <ending number="2" type="start" default-y="67.32" relative-x="-1.04"/>
         </barline>
       <harmony print-frame="no">
         <root>
@@ -418,7 +418,7 @@
         </harmony>
       <direction placement="above">
         <direction-type>
-          <metronome parentheses="no" default-y="6.20" relative-y="44.00">
+          <metronome parentheses="no" relative-x="-21.42" relative-y="75.70">
             <beat-unit>quarter</beat-unit>
             <per-minute>140</per-minute>
             </metronome>
@@ -498,7 +498,7 @@
         <beam number="1">end</beam>
         </note>
       <barline location="right">
-        <ending number="2" type="discontinue"/>
+        <ending number="2" type="discontinue" relative-x="-1.04"/>
         </barline>
       </measure>
     <measure number="6" width="332.91">
