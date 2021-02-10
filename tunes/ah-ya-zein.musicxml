@@ -7,8 +7,8 @@
   <identification>
     <creator type="arranger">Karim Ratib</creator>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -44,11 +44,13 @@
     <credit-type>title</credit-type>
     <credit-words default-x="612" default-y="1498.96" justify="center" valign="top" font-family="FreeSerif" font-size="22">Ah ya zein آه يا زين
 </credit-words>
+    <credit-words></credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>
     <credit-words default-x="1138.96" default-y="1382.64" justify="right" valign="bottom" font-family="FreeSerif">Traditional تراثية
 </credit-words>
+    <credit-words></credit-words>
     </credit>
   <credit page="1">
     <credit-type>subtitle</credit-type>

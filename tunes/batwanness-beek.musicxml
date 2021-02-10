@@ -6,8 +6,8 @@
     </work>
   <identification>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -418,7 +418,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-10.00">
@@ -712,7 +712,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -1115,7 +1115,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-40.00">
@@ -1493,7 +1493,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-40.00">
@@ -1741,7 +1741,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-40.00">
@@ -1945,7 +1945,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -2314,7 +2314,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -2686,7 +2686,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.56</system-distance>
+          <system-distance>123.64</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -3097,7 +3097,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>90.96</system-distance>
+          <system-distance>90.94</system-distance>
           </system-layout>
         </print>
       <note default-x="70.85" default-y="-30.00">
@@ -3798,7 +3798,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.76</system-distance>
+          <system-distance>85.72</system-distance>
           </system-layout>
         </print>
       <note>
@@ -4170,7 +4170,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.76</system-distance>
+          <system-distance>85.72</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -4704,7 +4704,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.76</system-distance>
+          <system-distance>85.72</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -5011,7 +5011,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>87.73</system-distance>
+          <system-distance>87.74</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -5361,7 +5361,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.76</system-distance>
+          <system-distance>85.72</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-50.00">
@@ -5737,7 +5737,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>123.40</system-distance>
+          <system-distance>123.48</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -6057,7 +6057,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.76</system-distance>
+          <system-distance>85.72</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -6340,7 +6340,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>85.76</system-distance>
+          <system-distance>85.72</system-distance>
           </system-layout>
         </print>
       <note>
@@ -6662,7 +6662,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>103.18</system-distance>
+          <system-distance>103.26</system-distance>
           </system-layout>
         </print>
       <direction placement="above">
@@ -7145,7 +7145,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7365,7 +7365,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7673,7 +7673,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="62.09" default-y="-60.00">
@@ -7955,7 +7955,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note>
@@ -8136,7 +8136,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -8642,7 +8642,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -8878,7 +8878,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">
@@ -9164,7 +9164,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.33</system-distance>
+          <system-distance>92.41</system-distance>
           </system-layout>
         </print>
       <barline location="left">
@@ -9288,6 +9288,7 @@
         <direction-type>
           <rehearsal default-x="-31.85" relative-x="67.67" relative-y="39.38" font-weight="bold" font-size="14">Verse E
 </rehearsal>
+          <rehearsal></rehearsal>
           </direction-type>
         </direction>
       <note default-x="31.85" default-y="-35.00">
@@ -9452,7 +9453,7 @@
             <left-margin>0.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>92.02</system-distance>
+          <system-distance>92.01</system-distance>
           </system-layout>
         </print>
       <note default-x="58.59" default-y="-45.00">

@@ -6,8 +6,8 @@
     </work>
   <identification>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -110,7 +110,7 @@
             <per-minute>85</per-minute>
             </metronome>
           </direction-type>
-        <sound tempo="85.0002"/>
+        <sound tempo="85"/>
         </direction>
       <note>
         <rest/>

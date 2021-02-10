@@ -6,8 +6,8 @@
     </work>
   <identification>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -44,6 +44,7 @@
     <credit-type>title</credit-type>
     <credit-words default-x="595.275" default-y="1627.09" justify="center" valign="top" font-family="FreeSerif" font-size="22"> El helwa di الحلوة دي
 </credit-words>
+    <credit-words></credit-words>
     </credit>
   <credit page="1">
     <credit-type>lyricist</credit-type>
@@ -2406,7 +2407,7 @@
             <per-minute>80</per-minute>
             </metronome>
           </direction-type>
-        <sound tempo="79.9998"/>
+        <sound tempo="80"/>
         </direction>
       <note>
         <rest/>

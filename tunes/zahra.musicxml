@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Hassan El-Hadi</creator>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -96,7 +96,7 @@
             <per-minute>70</per-minute>
             </metronome>
           </direction-type>
-        <sound tempo="70.0002"/>
+        <sound tempo="70"/>
         </direction>
       <note default-x="86.72" default-y="-50.00">
         <pitch>

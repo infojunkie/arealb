@@ -7,8 +7,8 @@
   <identification>
     <creator type="composer">Baligh Hamdy</creator>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -44,6 +44,7 @@
     <credit-type>title</credit-type>
     <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-family="FreeSerif" font-size="22">El toba التوبة
 </credit-words>
+    <credit-words></credit-words>
     </credit>
   <credit page="1">
     <credit-type>composer</credit-type>

@@ -6,8 +6,8 @@
     </work>
   <identification>
     <encoding>
-      <software>MuseScore 3.6.0</software>
-      <encoding-date>2021-01-26</encoding-date>
+      <software>MuseScore 3.6.2</software>
+      <encoding-date>2021-02-09</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -47,6 +47,7 @@
     <credit-type>composer</credit-type>
     <credit-words default-x="1167.31" default-y="1427.31" justify="right" valign="bottom">Traditional تراثية
 </credit-words>
+    <credit-words></credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
