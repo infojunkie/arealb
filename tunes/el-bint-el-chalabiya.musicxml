@@ -670,6 +670,12 @@
           <system-distance>140.15</system-distance>
           </system-layout>
         </print>
+      <harmony print-frame="no">
+        <root>
+          <root-step>C</root-step>
+          </root>
+        <kind text="m7">minor-seventh</kind>
+        </harmony>
       <note>
         <rest/>
         <duration>2</duration>
@@ -1062,6 +1068,12 @@
           <system-distance>140.15</system-distance>
           </system-layout>
         </print>
+      <harmony print-frame="no">
+        <root>
+          <root-step>C</root-step>
+          </root>
+        <kind text="m7">minor-seventh</kind>
+        </harmony>
       <note default-x="56.99" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -1423,6 +1435,12 @@
           <system-distance>140.15</system-distance>
           </system-layout>
         </print>
+      <harmony print-frame="no">
+        <root>
+          <root-step text="">C</root-step>
+          </root>
+        <kind text="N.C.">none</kind>
+        </harmony>
       <direction placement="above">
         <direction-type>
           <rehearsal default-x="-25.00" default-y="10.42" relative-x="-17.21" relative-y="34.78" font-weight="bold" font-size="14">B</rehearsal>
