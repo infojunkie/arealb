@@ -291,9 +291,9 @@
     <measure number="3" width="257.73">
       <harmony print-frame="no">
         <root>
-          <root-step>D</root-step>
+          <root-step>F</root-step>
           </root>
-        <kind text="m7b5">half-diminished</kind>
+        <kind text="m7">minor-seventh</kind>
         </harmony>
       <note default-x="14.50" default-y="-15.00">
         <pitch>
