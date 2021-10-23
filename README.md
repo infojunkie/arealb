@@ -20,8 +20,9 @@ Each tune consists of several files:
 
 # Building files
 - `npm run grooves` to update an MMA Groove in `grooves`
-- `npm run build:midi` to generate MIDI files from MMA files
-- `npm run build:musicxml` to generate MusicXML files from MuseScore files
-- `npm run build:pdf` to generate `arealb.pdf` from MuseScore files
-- `npm run build` to run all build steps
-- `npm run play <tune>` to preview a given `<tune>.mma` file
+- `npm run build:midi` to generate MIDI files from MMA files; append `<tune>` to process a single tune
+- `npm run build:musicxml` to generate MusicXML files from MuseScore files; append `<tune>` to process a single tune
+- `npm run build:pdf` to generate PDF files from MuseScore files; append `<tune>` to process a single tune
+- `npm run build` to run MusicXML and PDF build steps; append `<tune>` to process a single tune
+- `npm run build:arealb` to generate `arealb.pdf` from MuseScore files
+- `npm run play <tune>` to preview a given tune
