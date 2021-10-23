@@ -8,7 +8,7 @@
     <creator type="composer">Traditional</creator>
     <encoding>
       <software>MuseScore 3.6.2</software>
-      <encoding-date>2021-10-18</encoding-date>
+      <encoding-date>2021-10-23</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -672,9 +672,9 @@
         </print>
       <harmony print-frame="no">
         <root>
-          <root-step>C</root-step>
+          <root-step>D</root-step>
           </root>
-        <kind text="m7">minor-seventh</kind>
+        <kind text="m7b5">half-diminished</kind>
         </harmony>
       <note>
         <rest/>
@@ -708,12 +708,6 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         </note>
-      <harmony print-frame="no">
-        <root>
-          <root-step>D</root-step>
-          </root>
-        <kind text="m7b5">half-diminished</kind>
-        </harmony>
       <note default-x="158.21" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -1070,9 +1064,9 @@
         </print>
       <harmony print-frame="no">
         <root>
-          <root-step>C</root-step>
+          <root-step>D</root-step>
           </root>
-        <kind text="m7">minor-seventh</kind>
+        <kind text="m7b5">half-diminished</kind>
         </harmony>
       <note default-x="56.99" default-y="-30.00">
         <pitch>
@@ -1111,12 +1105,6 @@
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         </note>
-      <harmony print-frame="no">
-        <root>
-          <root-step>D</root-step>
-          </root>
-        <kind text="m7b5">half-diminished</kind>
-        </harmony>
       <note default-x="166.86" default-y="-25.00">
         <pitch>
           <step>A</step>
